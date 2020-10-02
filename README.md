@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://hands-on.cloud/terraform-recipe-managing-aws-vpc-creating-private-subnets/" target="_blank"><img src="https://raw.githubusercontent.com/hands-on-cloud/hands-on.cloud/master/src/pages/Terraform%20recipe%20-%20Managing%20AWS%20VPC%20-%20Creating%20Private%20Subnets/Terraform-recipe-Managing-AWS-VPC-Creating-Private-Subnets.png"></a>
+  <a href="https://hands-on.cloud/terraform-recipe-managing-aws-vpc-creating-private-subnets/" target="_blank"><img src="https://hands-on.cloud/terraform-recipe-managing-aws-vpc-creating-private-subnets/Terraform-recipe-Managing-AWS-VPC-Creating-Private-Subnets.png"></a>
 </p>
 
 This is full source code to the article [Terraform recipe - Managing AWS VPC - Creating Private Subnets](https://hands-on.cloud/terraform-recipe-managing-aws-vpc-creating-private-subnets/)
